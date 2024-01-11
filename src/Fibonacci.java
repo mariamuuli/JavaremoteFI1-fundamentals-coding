@@ -9,6 +9,12 @@ public class Fibonacci {
             secondToLast = last;
             last = current;
             System.out.println(current + " ");
+
+            //System.out.println("Fibonacci series: \n Enter and Integer: " );
+            //        Scanner scanner = new Scanner(System.in);
+            //        int inputF = scanner.nextInt();
+            //        Fibonacci fibonacci = new Fibonacci();
+            //        fibonacci.printFibonacciSeries(inputF);
         }
 
     }
